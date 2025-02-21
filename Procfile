@@ -1,1 +1,2 @@
-python watcher.py
+
+worker: python watcher.py
